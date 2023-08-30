@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+h1{font-size:70px;
+   color: #2a7ae2}
+h2{font-size:60px;
+   color:#f44336}
+h3{font-size:50px;
+   color:#4caf50}
+h4{font-size:40px;color:#ff9800}
+h5{font-size:30px;color:#607d8b}
+h6{font-size:20px;color:#ffeb3b}
